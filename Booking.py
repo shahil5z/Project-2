@@ -101,8 +101,8 @@ def save_booking():
 
 # Define a function to send a booking confirmation email
 def send_booking_email():
-    sender_email = 'shahilhaque8786@gmail.com'
-    sender_password = 'yvdzkayvtyphdrdq'
+    sender_email = #'ADD AN E-MAIL ID HERE, REMOVE THE HASHTAG'
+    sender_password = #'ADD YOUR APP PASSWORD'
     recipient_email = email_entry.get()
 
     # Define the email subject and body
