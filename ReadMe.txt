@@ -53,6 +53,3 @@ smtplib: smtplib is a library for sending email messages. In your code, it's use
 
 email: The email library provides modules for composing and sending email messages, including the MIMEText and MIMEMultipart modules
             for constructing email content.
-
-				THANK YOU
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
